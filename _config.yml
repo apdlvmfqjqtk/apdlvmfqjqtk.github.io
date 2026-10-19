@@ -1,6 +1,6 @@
 # Site settings
 title: "임 정 우 Resume'
-baseurl: "/ap"
+baseurl: 
 url: "https://apdlvmfqjqtk.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
