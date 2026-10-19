@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Jenseng Hwang
-  desc: Youkoso watashino Soul Society
+  desc: Resume 사이트 테스트
   email: website@web.com
   selfie: assets/img/profile.jpg
 
